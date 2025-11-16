@@ -5,3 +5,5 @@ drf-yasg
 mysqlclient
 celery
 django-environ
+
+
