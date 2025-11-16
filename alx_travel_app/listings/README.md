@@ -1,5 +1,4 @@
-# ALX Travel App (Milestone 2)
-
+# ALX Travel App (Milestone 2), WEEK 4
 ALX Travel App is a backend application built with Django and Django REST Framework (DRF) for a travel booking platform.  
 This project demonstrates:
 
